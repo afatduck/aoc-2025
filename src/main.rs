@@ -6,7 +6,7 @@ fn main() {
 
     match input_result {
         Ok(input) => {
-            days::day1p1::solve(input);
+            days::day1p2::solve(input);
         },
         Err(_) => {
             println!("Error reading file...")
