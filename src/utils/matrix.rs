@@ -2,6 +2,7 @@ use std::fmt::Debug;
 
 use crate::utils::vector2::Vector2;
 
+#[derive(Clone)]
 pub struct Matrix<T> {
     _values: Vec<T>,
     _n: usize,
