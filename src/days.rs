@@ -8,4 +8,6 @@ pub mod day4p1;
 pub mod day4p2;
 pub mod day5p1;
 pub mod day5p2;
+pub mod day6p1;
+pub mod day6p2;
 
