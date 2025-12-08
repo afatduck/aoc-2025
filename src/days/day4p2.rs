@@ -1,6 +1,5 @@
 use crate::utils::matrix::Matrix;
 
-#[allow(dead_code)]
 pub fn solve(input: String) {
 
     let m = input.find('\n').unwrap();

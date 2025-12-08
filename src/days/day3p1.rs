@@ -1,4 +1,3 @@
-#[allow(dead_code)]
 pub fn solve(input: String) {
 
     let banks = input.split_ascii_whitespace();
